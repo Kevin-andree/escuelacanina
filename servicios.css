@@ -1,0 +1,25 @@
+#servicios{
+    text-align: center;
+}
+#servicios .contenedor4 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.info-servicios{
+    margin: 20px;
+}
+.info-servicios img{
+    width: 400px;
+    height: 250px;
+    border-radius: 500%;
+    border: 6px solid #000;
+}
+#servicios h3{
+    background: #000;
+    color: #fff;
+    font-size: 45px;
+}
+#servicios h4{
+    font-size: 25px;
+}

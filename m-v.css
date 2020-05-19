@@ -1,0 +1,32 @@
+#m-v {
+    background: #FFCC60;
+}
+#m-v .contenedor3{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+#m-v article{
+    margin: 30px 800px;
+    background: #FFCC60;
+}
+#m-v h3{
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    background: #000;
+}
+#m-v h2{
+    text-align: center;
+    font-size: 40px;
+}
+#m-v p{
+    text-align: justify;
+    font-size: 25px;
+}
+#m-v img {
+    justify-content: center;
+    border: 6px solid #fff;
+    border-radius: 15%;
+}
